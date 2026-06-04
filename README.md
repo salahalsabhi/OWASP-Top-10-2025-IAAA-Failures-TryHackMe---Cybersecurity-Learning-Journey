@@ -249,7 +249,10 @@ By studying the relationship between the IAAA model and OWASP Top 10 categories 
 **Category:** Web Security / OWASP Top 10 / Blue Team Fundamentals
 **Difficulty:** Beginner
 ---
-My LinkedIn :[
+
+My LinkedIn :[https://www.linkedin.com/feed/update/urn:li:activity:7468324741150384128/]
+
 My X :[https://x.com/charisma1385/status/2062555165178138991]
+
 ---
 #TryHackMe #OWASP #OWASPTop10 #CyberSecurity #WebSecurity #Authentication #Authorization #AccessControl #IdentityManagement #SecurityMonitoring #BlueTeam #SOCAnalyst #ThreatDetection #SecurityAwareness #DefensiveSecurity #AppSec #InformationSecurity
